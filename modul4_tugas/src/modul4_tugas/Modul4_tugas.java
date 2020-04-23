@@ -38,7 +38,7 @@ public class Modul4_tugas {
         int proses, option;
         orang1();
         orang2();
-        batas();
+        
         System.out.println ("");
         menu();
         System.out.println ("");
